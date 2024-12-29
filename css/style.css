@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Chokokutai&family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Kalam:wght@300;400;700&family=LXGW+WenKai+Mono+TC&family=Outfit:wght@100..900&family=Sora:wght@100..800&family=Stick&display=swap');
+
 /* General Styles */
 * {
     margin: 0;
@@ -6,7 +8,9 @@
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Comic Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     background-color: #f8f8f8;
     color: #333;
 }

@@ -9,3 +9,6 @@ https://stockcake.com/i/creamy-chicken-pasta_956981_1011948
 color palette
 
 https://mycolor.space/?hex=%23000080&sub=1
+
+image resizer
+https://imageresizer.com/
