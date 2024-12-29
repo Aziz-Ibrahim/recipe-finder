@@ -1,0 +1,19 @@
+[{
+        "id": 1,
+        "name": "Chicken Alfredo",
+        "description": "A creamy pasta dish with grilled chicken.",
+        "image": "assets/images/chicken-alfredo.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Vegetable Stir Fry",
+        "description": "A healthy mix of vegetables sautéed to perfection.",
+        "image": "assets/images/stir-fry.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Beef Tacos",
+        "description": "Juicy beef tacos with fresh toppings.",
+        "image": "assets/images/beef-tacos.jpg"
+    }
+]
