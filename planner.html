@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meal Planner</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <a href="index.html">Back to Recipes</a>
+        </nav>
+    </header>
+
+    <section class="planner">
+        <h1>Meal Planner</h1>
+        <div class="recipe-pool">
+            <!-- Recipe cards are loaded here from JS -->
+        </div>
+        <div class="planner-grid">
+            <div class="day" data-day="monday">Monday</div>
+            <div class="day" data-day="tuesday">Tuesday</div>
+            <div class="day" data-day="wednesday">Wednesday</div>
+            <div class="day" data-day="thursday">Thursday</div>
+            <div class="day" data-day="friday">Friday</div>
+        </div>
+        <button class="save-btn">Save Plan</button>
+
+        <button class="print-btn">🖨️ Print Weekly Plan</button>
+
+    </section>
+
+    <script src="js/planner.js"></script>
+
+</body>
+
+</html>
